@@ -1,0 +1,133 @@
+.donate-ads{
+    background-image: url(/images/donation7.jpg);
+    width: 1580px;
+    height: 800px;
+    background-repeat: no-repeat;
+   text-align: center;  
+
+}
+#ads-details-1{
+    color: rgb(255, 255, 255);
+    padding-top: 18%;
+}
+#ads-details{
+    color: rgb(255, 255, 255);
+    margin: 0 20%;
+    padding: 5%;
+}
+
+.donate-ads a{
+    text-decoration: none;
+    color: azure;
+    background-color: #FF5959;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.perday-donation{
+    margin-top: 8%;
+    text-align: center;
+}
+.perday-donation p{
+    margin: 0 20%;
+}
+.donate-amount{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 30%;
+  padding-top: 5%;
+}
+#donate-amount-range:hover{
+    background-color: #FFEEEE;
+    border: 1px solid #eb7272;
+    padding: 10px;
+
+}
+.Other-pament{
+    text-align: center;
+    padding: 30px;
+}
+.Other-pament p{
+    border-bottom: 1px solid #918c8c;
+    margin: 0 25%;
+    padding: 10px;
+
+}
+.Other-pament a{
+    background-color:#FF5959;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.donate-plan{
+    margin-top: 30px;
+    text-align: center;
+}
+.donate-plan p{
+    margin: 0 20%;
+
+}
+.donate-plans-details{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 50px;
+  margin: 13%;
+}
+.donate-plans-details-1{
+    background-color:#EDF5F6 ;
+    padding: 50px;
+}
+.donate-plans-details-2{
+    background-color:#FFEEEE ;
+    padding: 50px;
+}
+
+.donate-plans-details-3{
+    background-color:#FFF4D6 ;
+    padding: 50px;
+}
+.why-donation{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 15%;
+    
+}
+.why-donation img{
+    border-radius: 5px;
+}
+.why-donation a{
+    background-color: #eb7272;
+    color: #EDF5F6;
+    border-radius: 10px;
+    padding: 12px;
+    text-decoration: none;
+}
+.why-donation-dts{
+    margin: 20px;
+}
+
+.serve-donation{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 15%;
+}
+.serve-donation img{
+    border-radius: 5px;
+}
+.serve-donation-dts{
+    padding: 30px;
+    margin: 30px 0;
+}
+
+.activity{
+    color: #EDF5F6;
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 20px;
+
+}
+.activity a{
+    color: #ffffff;
+    
+}
